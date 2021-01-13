@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch_137</folder>
+	<filename>0969592262_1602081288_96.jpg</filename>
+	<path>C:\Users\TLnet\Desktop\batch_137\0969592262_1602081288_96.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1316</xmin>
+			<ymin>2766</ymin>
+			<xmax>1563</xmax>
+			<ymax>2956</ymax>
+		</bndbox>
+	</object>
+</annotation>
