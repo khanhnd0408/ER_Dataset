@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch_139</folder>
+	<filename>0977004635_1602083332_44.jpg</filename>
+	<path>C:\Users\TLnet\Desktop\batch_139\0977004635_1602083332_44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2035</xmin>
+			<ymin>537</ymin>
+			<xmax>2673</xmax>
+			<ymax>1180</ymax>
+		</bndbox>
+	</object>
+</annotation>
