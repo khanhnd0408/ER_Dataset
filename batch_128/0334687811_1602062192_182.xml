@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch_128</folder>
+	<filename>0334687811_1602062192_182.jpg</filename>
+	<path>C:\Users\TLnet\Desktop\batch_128\0334687811_1602062192_182.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bcq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1309</xmin>
+			<ymin>3566</ymin>
+			<xmax>1740</xmax>
+			<ymax>4066</ymax>
+		</bndbox>
+	</object>
+</annotation>
