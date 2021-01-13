@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch_188</folder>
+	<filename>0919742400_1602090466_123.jpg</filename>
+	<path>/home/tung/Desktop/roi_alll/test/batch_188/0919742400_1602090466_123.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2320</width>
+		<height>3088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bcr</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1948</ymin>
+			<xmax>628</xmax>
+			<ymax>2703</ymax>
+		</bndbox>
+	</object>
+</annotation>
