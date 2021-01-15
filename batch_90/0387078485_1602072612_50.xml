@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch_89</folder>
+	<filename>0387078485_1602072612_50.jpg</filename>
+	<path>/home/tung/Desktop/roi_alll/test/batch_89/0387078485_1602072612_50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>202</ymin>
+			<xmax>557</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>
