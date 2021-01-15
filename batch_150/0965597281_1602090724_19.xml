@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch_150</folder>
+	<filename>0965597281_1602090724_19.jpg</filename>
+	<path>C:\Users\TLnet\Desktop\batch_150\0965597281_1602090724_19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3280</width>
+		<height>2464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bc</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1183</ymin>
+			<xmax>587</xmax>
+			<ymax>1943</ymax>
+		</bndbox>
+	</object>
+</annotation>
