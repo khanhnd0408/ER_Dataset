@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch_165</folder>
+	<filename>0969672888_1602100387_67.jpg</filename>
+	<path>/media/ailab-02/Data/Code/dataset/Pendding/batch_165/0969672888_1602100387_67.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2320</width>
+		<height>3088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>at</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1640</xmin>
+			<ymin>2446</ymin>
+			<xmax>1812</xmax>
+			<ymax>2686</ymax>
+		</bndbox>
+	</object>
+</annotation>
