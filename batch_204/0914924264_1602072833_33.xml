@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch_204</folder>
+	<filename>0914924264_1602072833_33.jpg</filename>
+	<path>C:\Users\TLnet\Desktop\batch_204\0914924264_1602072833_33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>at</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>615</xmin>
+			<ymin>2350</ymin>
+			<xmax>731</xmax>
+			<ymax>2499</ymax>
+		</bndbox>
+	</object>
+</annotation>
