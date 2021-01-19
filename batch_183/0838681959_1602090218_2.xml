@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch_183</folder>
+	<filename>0838681959_1602090218_2.jpg</filename>
+	<path>/media/ailab-02/Data/Code/dataset/Pendding/batch_183/0838681959_1602090218_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>214</width>
+		<height>286</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>addb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>209</ymin>
+			<xmax>167</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>
