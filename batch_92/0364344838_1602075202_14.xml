@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch_92</folder>
+	<filename>0364344838_1602075202_14.jpg</filename>
+	<path>/home/tung/Desktop/roi_alll/test/batch_92/0364344838_1602075202_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>at</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>968</ymin>
+			<xmax>212</xmax>
+			<ymax>1098</ymax>
+		</bndbox>
+	</object>
+</annotation>
