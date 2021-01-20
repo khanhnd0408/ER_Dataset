@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch_179</folder>
+	<filename>0912177268_1602082825_54.jpg</filename>
+	<path>C:\Users\TLnet\Desktop\batch_179\0912177268_1602082825_54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3088</width>
+		<height>2320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1797</xmin>
+			<ymin>2018</ymin>
+			<xmax>2022</xmax>
+			<ymax>2260</ymax>
+		</bndbox>
+	</object>
+</annotation>
