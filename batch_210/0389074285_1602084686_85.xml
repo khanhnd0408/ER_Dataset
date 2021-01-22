@@ -1,0 +1,26 @@
+<annotation>
+	<folder>batch_210</folder>
+	<filename>0389074285_1602084686_85.jpg</filename>
+	<path>/home/tung/Desktop/roi_alll/test/batch_210/0389074285_1602084686_85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>2794</ymin>
+			<xmax>630</xmax>
+			<ymax>3074</ymax>
+		</bndbox>
+	</object>
+</annotation>
